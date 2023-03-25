@@ -30,9 +30,9 @@ Terminal: mvn clean install
 
 # How to run this project (Jenkins)
 
-- Manage Jenkins -> Global Tool Configuration -> JDK installations (Name, JAVA_HOME), Maven (Name, MAVEN_HOME) -> Apply
+- Manage Jenkins -> Global Tool Configuration -> JDK installations (Name, JAVA_HOME), Maven (Name, MAVEN_HOME)
 
-- New Item -> Maven Project -> OK -> Build Triggers (Root POM {POM Location}), (Goals and options {clean install}) -> Apply
+- New Item -> Maven Project -> OK -> Build Triggers (Root POM {POM Location}), (Goals and options {clean install})
 
 
 
